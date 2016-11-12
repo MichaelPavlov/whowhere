@@ -1,0 +1,17 @@
+Django==1.10.3
+django-debug-toolbar==1.6
+django-filter==0.15.3
+django-gulp-rev==0.2
+django-seo-js==0.3.1
+django-smart-selects==1.2.6
+djangorestframework==3.5.2
+factory-boy==2.7.0
+fake-factory==0.7.2
+Faker==0.7.3
+Pillow==3.4.2
+psycopg2==2.6.2
+python-dateutil==2.5.3
+pytz==2016.7
+requests==2.2.1
+six==1.10.0
+sqlparse==0.2.2
